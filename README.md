@@ -34,4 +34,6 @@ Looking for a powerful, reliable, and affordable server for virtualization, deve
 ![HP ProLiant DL580 G7 in Switzerland](hp_proliant_dl580_G7_1.jpeg)
 
 
+![HP ProLiant DL580 G7 in Switzerland](hp_proliant_dl580_G7_2.jpeg)
+
 
