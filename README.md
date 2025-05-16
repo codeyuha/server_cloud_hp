@@ -1,37 +1,40 @@
+# 💥 位于瑞士数据中心的 HP ProLiant DL580 G7 — 企业级服务器，价格极具优势
 
-# 💥 HP ProLiant DL580 G7 in Switzerland data center — Enterprise-Class Server at a Fraction of the Price
-# 💥 Hurry up and get the server at a low price before June 1, 2025.
-Looking for a powerful, reliable, and affordable server for virtualization, development, or business needs?
+# 💥 抢购优惠服务器，截止日期为 **2025年6月1日**
 
-## 🔧 HP ProLiant DL580 G7 — Key Features:
-- ✅ **4x Intel Xeon CPU support** (up to 40 cores / 80 threads)
-- ✅ **Up to 1TB DDR3 ECC RAM** — ideal for big data & virtualization
-- ✅ **Hot-swappable drives, fans, and power supplies**
-- ✅ **Integrated RAID Controller (Smart Array)**
-- ✅ **iLO 3 remote management interface** for full remote control
-- ✅ Fully compatible with **VMWare ESXi**, **CentOS**, **Windows Server**, and more
+正在寻找一款强大、可靠且实惠的服务器，用于虚拟化、开发或企业业务？
 
-## 🎯 Perfect For:
-- Home Labs & Virtualization
-- Database Testing & Learning
-- Enterprise Backup / NAS Server
-- High-Availability Applications
+## 🔧 HP ProLiant DL580 G7 — 主要特点：
 
-💡 Hurry up and get the server at a low price before June 1, 2025.
-💡 This server will be fully owned by a single buyer, ensuring maximum security and privacy.
-💡 Extremely durable, enterprise-grade machine — available at an unbeatable price!
+* ✅ **支持4颗 Intel Xeon CPU**（最多可达40核心 / 80线程）
+* ✅ **最大1TB DDR3 ECC内存** — 非常适合大数据和虚拟化需求
+* ✅ **支持热插拔硬盘、风扇和电源**
+* ✅ **集成RAID控制器（Smart Array）**
+* ✅ **iLO 3 远程管理接口**，实现全面远程控制
+* ✅ 完全兼容 **VMWare ESXi**、**CentOS**、**Windows Server** 等系统
 
----
+## 🎯 理想适用场景：
 
-## 📬 Contact Info:
+* 家用实验室和虚拟化平台
+* 数据库测试与学习
+* 企业级备份 / 网络附加存储（NAS）服务器
+* 高可用性应用程序
 
-- 📧 Email: **autocadmdav@gmail.com**
-- 💬 Telegram: [@yurii_code](https://t.me/yurii_code)
-- 📱 WhatsApp: **+34 624 13 41 01**
+💡 抢购优惠服务器，截止日期为 **2025年6月1日**
+💡 此服务器将完全归单一买家所有，确保最大的数据安全与隐私保护
+💡 超强耐用的企业级设备 —— 无与伦比的价格！
 
 ---
 
-🔥 Don’t miss out on this opportunity — bring enterprise power to your rack today!
+## 📬 联系方式：
+
+* 📧 邮箱：**[autocadmdav@gmail.com](mailto:autocadmdav@gmail.com)**
+* 💬 Telegram：\[[@yurii\_code](https://t.me/yurii_code)]
+* 📱 WhatsApp：**+34 624 13 41 01**
+
+---
+
+🔥 不要错过这个机会 —— 让企业级计算能力加入您的机架！
 
 ![HP ProLiant DL580 G7 in Switzerland](hp_proliant_dl580_G7_1.jpeg)
 
