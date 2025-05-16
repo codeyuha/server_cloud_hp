@@ -17,6 +17,8 @@ Looking for a powerful, reliable, and affordable server for virtualization, deve
 - Enterprise Backup / NAS Server
 - High-Availability Applications
 
+💡 Hurry up and get the server at a low price before June 1, 2025.
+💡 This server will be fully owned by a single buyer, ensuring maximum security and privacy.
 💡 Extremely durable, enterprise-grade machine — available at an unbeatable price!
 
 ---
